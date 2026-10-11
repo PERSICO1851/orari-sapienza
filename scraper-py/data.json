@@ -1,0 +1,322 @@
+{
+    "events": [
+        {
+            "id": 0,
+            "start": "2026-10-12T08:00:00.0000000",
+            "end": "2026-10-12T10:00:00.0000000",
+            "title": "<b>ELECTIVE IN ARTIFICIAL INTELLIGENCE I</b><p class=\"cal-teacher\"><i title=\"Docente\" class=\"fa fa-user\"></i> <a href=\"/it/lecturer/d80e1b0549aa3d633b6cad712b2197c6ad3f730e4bf6db69f079bce9\">CHRISTIAN NAPOLI</a></p><p class=\"cal-space\"><i title=\"Aula\" class=\"fa fa-location\"></i> Aula B2 (RM102, Accessibile: Si)</a></p>",
+            "description": "<p class=\"cal-curricula\"><i title=\"Curriculum\" class=\"fa fa-book\"></i> 2\u00ba anno - Nessuna canalizzazione: Intelligenza Artificiale e Robotica ING-INF/05</p>",
+            "textColor": "#333333",
+            "curricula": [
+                "Intelligenza Artificiale e Robotica"
+            ],
+            "course_years": [
+                2
+            ],
+            "partitions": [
+                "Nessuna canalizzazione"
+            ],
+            "ssds": [
+                "ING-INF/05"
+            ]
+        },
+        {
+            "id": 1,
+            "start": "2026-10-12T10:00:00.0000000",
+            "end": "2026-10-12T12:00:00.0000000",
+            "title": "<b>NETWORK INFRASTRUCTURES </b><p class=\"cal-teacher\"><i title=\"Docente\" class=\"fa fa-user\"></i> <a href=\"/it/lecturer/0c78e43351e850cb2be8beabcae820c350058cdc7b29a4c5dc52666b\">MARCO POLVERINI</a></p><p class=\"cal-space\"><i title=\"Aula\" class=\"fa fa-location\"></i> AULA 201 (RM112, Accessibile: Si)</a></p>",
+            "description": "<p class=\"cal-inbounds\"><i title=\"Mutuazioni\" class=\"fa fa-exchange\"></i> NETWORK INFRASTRUCTURES  [2026-33510], NETWORK INFRASTRUCTURES  [2026-33514], NETWORK INFRASTRUCTURES  [2026-33515]</p><p class=\"cal-curricula\"><i title=\"Curriculum\" class=\"fa fa-book\"></i> 2\u00ba anno - Nessuna canalizzazione: Intelligenza Artificiale e Robotica ING-INF/03</p>",
+            "textColor": "#333333",
+            "curricula": [
+                "Intelligenza Artificiale e Robotica"
+            ],
+            "course_years": [
+                2
+            ],
+            "partitions": [
+                "Nessuna canalizzazione"
+            ],
+            "ssds": [
+                "ING-INF/03"
+            ]
+        },
+        {
+            "id": 2,
+            "start": "2026-10-12T10:00:00.0000000",
+            "end": "2026-10-12T12:00:00.0000000",
+            "title": "<b>AUTONOMOUS AND MOBILE ROBOTICS</b><p class=\"cal-teacher\"><i title=\"Docente\" class=\"fa fa-user\"></i> <a href=\"/it/lecturer/4561774d08c45e4be490c0c4aba210679e3b1c700115c906baeea72b\">GIUSEPPE ORIOLO</a></p><p class=\"cal-space\"><i title=\"Aula\" class=\"fa fa-location\"></i> Aula B2 (RM102, Accessibile: Si)</a></p>",
+            "description": "<p class=\"cal-inbounds\"><i title=\"Mutuazioni\" class=\"fa fa-exchange\"></i> AUTONOMOUS AND MOBILE ROBOTICS [2026-33492], AUTONOMOUS AND MOBILE ROBOTICS [2026-33509]</p><p class=\"cal-curricula\"><i title=\"Curriculum\" class=\"fa fa-book\"></i> 2\u00ba anno - Nessuna canalizzazione: Intelligenza Artificiale e Robotica ING-INF/04</p>",
+            "textColor": "#333333",
+            "curricula": [
+                "Intelligenza Artificiale e Robotica"
+            ],
+            "course_years": [
+                2
+            ],
+            "partitions": [
+                "Nessuna canalizzazione"
+            ],
+            "ssds": [
+                "ING-INF/04"
+            ]
+        },
+        {
+            "id": 3,
+            "start": "2026-10-12T15:00:00.0000000",
+            "end": "2026-10-12T18:00:00.0000000",
+            "title": "<b>NEUROENGINEERING</b><p class=\"cal-teacher\"><i title=\"Docente\" class=\"fa fa-user\"></i> <a href=\"/it/lecturer/e11e6440383c593ba7cb4f407bb960894f439b3d97333c54c1955dd1\">FEBO CINCOTTI</a></p><p class=\"cal-space\"><i title=\"Aula\" class=\"fa fa-location\"></i> Aula B2 (RM102, Accessibile: Si)</a></p>",
+            "description": "<p class=\"cal-inbounds\"><i title=\"Mutuazioni\" class=\"fa fa-exchange\"></i> NEUROENGINEERING [2026-33514]</p><p class=\"cal-curricula\"><i title=\"Curriculum\" class=\"fa fa-book\"></i> 1\u00ba anno - Nessuna canalizzazione: Intelligenza Artificiale e Robotica IBIO-01/A</p>",
+            "textColor": "#333333",
+            "curricula": [
+                "Intelligenza Artificiale e Robotica"
+            ],
+            "course_years": [
+                1
+            ],
+            "partitions": [
+                "Nessuna canalizzazione"
+            ],
+            "ssds": [
+                "IBIO-01/A"
+            ]
+        },
+        {
+            "id": 4,
+            "start": "2026-10-13T13:00:00.0000000",
+            "end": "2026-10-13T16:00:00.0000000",
+            "title": "<b>NEURAL NETWORKS</b><p class=\"cal-teacher\"><i title=\"Docente\" class=\"fa fa-user\"></i> <a href=\"/it/lecturer/8277c9c2f25dfa73ad5f5f1e2fb7f3e46a0a9247c01b2f49d767ffbc\">SIMONE SCARDAPANE</a></p><p class=\"cal-space\"><i title=\"Aula\" class=\"fa fa-location\"></i> Aula A3 (RM102, Accessibile: Si)</a></p>",
+            "description": "<p class=\"cal-inbounds\"><i title=\"Mutuazioni\" class=\"fa fa-exchange\"></i> NEURAL NETWORKS [2026-33492], NEURAL NETWORKS [2026-33515]</p><p class=\"cal-curricula\"><i title=\"Curriculum\" class=\"fa fa-book\"></i> 2\u00ba anno - Nessuna canalizzazione: Intelligenza Artificiale e Robotica ING-IND/31</p>",
+            "textColor": "#333333",
+            "curricula": [
+                "Intelligenza Artificiale e Robotica"
+            ],
+            "course_years": [
+                2
+            ],
+            "partitions": [
+                "Nessuna canalizzazione"
+            ],
+            "ssds": [
+                "ING-IND/31"
+            ]
+        },
+        {
+            "id": 5,
+            "start": "2026-10-13T16:00:00.0000000",
+            "end": "2026-10-13T19:00:00.0000000",
+            "title": "<b>ELECTIVE IN ROBOTICS I</b><p class=\"cal-teacher\"><i title=\"Docente\" class=\"fa fa-user\"></i> <a href=\"/it/lecturer/e2947b14bc21fa3b1b77cacfa9d49d0224e15f65e2d1cba9e3563251\">MARILENA VENDITTELLI</a></p><p class=\"cal-space\"><i title=\"Aula\" class=\"fa fa-location\"></i> Aula B2 (RM102, Accessibile: Si)</a></p>",
+            "description": "<p class=\"cal-inbounds\"><i title=\"Mutuazioni\" class=\"fa fa-exchange\"></i> CONTROL OF FLYING ROBOTS AND ROBOTIC SYSTEMS [2026-33483], CONTROL PROBLEMS IN ROBOTICS [2026-33494], CONTROL PROBLEMS IN ROBOTICS [2026-33509], MEDICAL ROBOTICS [2026-33513]</p><p class=\"cal-curricula\"><i title=\"Curriculum\" class=\"fa fa-book\"></i> 2\u00ba anno - Nessuna canalizzazione: Intelligenza Artificiale e Robotica ING-INF/04</p>",
+            "textColor": "#333333",
+            "curricula": [
+                "Intelligenza Artificiale e Robotica"
+            ],
+            "course_years": [
+                2
+            ],
+            "partitions": [
+                "Nessuna canalizzazione"
+            ],
+            "ssds": [
+                "ING-INF/04"
+            ]
+        },
+        {
+            "id": 6,
+            "start": "2026-10-13T18:00:00.0000000",
+            "end": "2026-10-13T20:00:00.0000000",
+            "title": "<b>ARTIFICIAL INTELLIGENCE</b><p class=\"cal-teacher\"><i title=\"Docente\" class=\"fa fa-user\"></i> <a href=\"/it/lecturer/c0830e2a7200098c62a541334b5955a46ec250c8533f8d8998fbdd2c\">SARA BERNARDINI</a></p><p class=\"cal-space\"><i title=\"Aula\" class=\"fa fa-location\"></i> Aula L41 (RM041, Accessibile: Si)</a></p>",
+            "description": "<p class=\"cal-curricula\"><i title=\"Curriculum\" class=\"fa fa-book\"></i> 1\u00ba anno - Nessuna canalizzazione: Intelligenza Artificiale e Robotica IINF-05/A</p>",
+            "textColor": "#333333",
+            "curricula": [
+                "Intelligenza Artificiale e Robotica"
+            ],
+            "course_years": [
+                1
+            ],
+            "partitions": [
+                "Nessuna canalizzazione"
+            ],
+            "ssds": [
+                "IINF-05/A"
+            ]
+        },
+        {
+            "id": 7,
+            "start": "2026-10-14T08:00:00.0000000",
+            "end": "2026-10-14T11:00:00.0000000",
+            "title": "<b>ELECTIVE IN ARTIFICIAL INTELLIGENCE I</b><p class=\"cal-teacher\"><i title=\"Docente\" class=\"fa fa-user\"></i> <a href=\"/it/lecturer/d80e1b0549aa3d633b6cad712b2197c6ad3f730e4bf6db69f079bce9\">CHRISTIAN NAPOLI</a></p><p class=\"cal-space\"><i title=\"Aula\" class=\"fa fa-location\"></i> Aula B2 (RM102, Accessibile: Si)</a></p>",
+            "description": "<p class=\"cal-curricula\"><i title=\"Curriculum\" class=\"fa fa-book\"></i> 2\u00ba anno - Nessuna canalizzazione: Intelligenza Artificiale e Robotica ING-INF/05</p>",
+            "textColor": "#333333",
+            "curricula": [
+                "Intelligenza Artificiale e Robotica"
+            ],
+            "course_years": [
+                2
+            ],
+            "partitions": [
+                "Nessuna canalizzazione"
+            ],
+            "ssds": [
+                "ING-INF/05"
+            ]
+        },
+        {
+            "id": 8,
+            "start": "2026-10-15T08:00:00.0000000",
+            "end": "2026-10-15T11:00:00.0000000",
+            "title": "<b>AUTONOMOUS AND MOBILE ROBOTICS</b><p class=\"cal-teacher\"><i title=\"Docente\" class=\"fa fa-user\"></i> <a href=\"/it/lecturer/4561774d08c45e4be490c0c4aba210679e3b1c700115c906baeea72b\">GIUSEPPE ORIOLO</a></p><p class=\"cal-space\"><i title=\"Aula\" class=\"fa fa-location\"></i> Aula B2 (RM102, Accessibile: Si)</a></p>",
+            "description": "<p class=\"cal-inbounds\"><i title=\"Mutuazioni\" class=\"fa fa-exchange\"></i> AUTONOMOUS AND MOBILE ROBOTICS [2026-33492], AUTONOMOUS AND MOBILE ROBOTICS [2026-33509]</p><p class=\"cal-curricula\"><i title=\"Curriculum\" class=\"fa fa-book\"></i> 2\u00ba anno - Nessuna canalizzazione: Intelligenza Artificiale e Robotica ING-INF/04</p>",
+            "textColor": "#333333",
+            "curricula": [
+                "Intelligenza Artificiale e Robotica"
+            ],
+            "course_years": [
+                2
+            ],
+            "partitions": [
+                "Nessuna canalizzazione"
+            ],
+            "ssds": [
+                "ING-INF/04"
+            ]
+        },
+        {
+            "id": 9,
+            "start": "2026-10-15T10:00:00.0000000",
+            "end": "2026-10-15T13:00:00.0000000",
+            "title": "<b>ROBOT PROGRAMMING</b><p class=\"cal-teacher\"><i title=\"Docente\" class=\"fa fa-user\"></i> <a href=\"/it/lecturer/889ce51c7fc24ac3d52285c8331e14d9ab0b1422202a780a765310d1\">GIORGIO GRISETTI</a></p><p class=\"cal-space\"><i title=\"Aula\" class=\"fa fa-location\"></i> AULA 201 (RM112, Accessibile: Si)</a></p>",
+            "description": "<p class=\"cal-curricula\"><i title=\"Curriculum\" class=\"fa fa-book\"></i> 1\u00ba anno - Nessuna canalizzazione: Intelligenza Artificiale e Robotica </p>",
+            "textColor": "#333333",
+            "curricula": [
+                "Intelligenza Artificiale e Robotica"
+            ],
+            "course_years": [
+                1
+            ],
+            "partitions": [
+                "Nessuna canalizzazione"
+            ],
+            "ssds": []
+        },
+        {
+            "id": 10,
+            "start": "2026-10-15T14:00:00.0000000",
+            "end": "2026-10-15T16:00:00.0000000",
+            "title": "<b>ELECTIVE IN ROBOTICS I</b><p class=\"cal-teacher\"><i title=\"Docente\" class=\"fa fa-user\"></i> <a href=\"/it/lecturer/e2947b14bc21fa3b1b77cacfa9d49d0224e15f65e2d1cba9e3563251\">MARILENA VENDITTELLI</a></p><p class=\"cal-space\"><i title=\"Aula\" class=\"fa fa-location\"></i> Aula B2 (RM102, Accessibile: Si)</a></p>",
+            "description": "<p class=\"cal-inbounds\"><i title=\"Mutuazioni\" class=\"fa fa-exchange\"></i> CONTROL OF FLYING ROBOTS AND ROBOTIC SYSTEMS [2026-33483], CONTROL PROBLEMS IN ROBOTICS [2026-33494], CONTROL PROBLEMS IN ROBOTICS [2026-33509], MEDICAL ROBOTICS [2026-33513]</p><p class=\"cal-curricula\"><i title=\"Curriculum\" class=\"fa fa-book\"></i> 2\u00ba anno - Nessuna canalizzazione: Intelligenza Artificiale e Robotica ING-INF/04</p>",
+            "textColor": "#333333",
+            "curricula": [
+                "Intelligenza Artificiale e Robotica"
+            ],
+            "course_years": [
+                2
+            ],
+            "partitions": [
+                "Nessuna canalizzazione"
+            ],
+            "ssds": [
+                "ING-INF/04"
+            ]
+        },
+        {
+            "id": 11,
+            "start": "2026-10-16T08:00:00.0000000",
+            "end": "2026-10-16T11:00:00.0000000",
+            "title": "<b>NETWORK INFRASTRUCTURES </b><p class=\"cal-teacher\"><i title=\"Docente\" class=\"fa fa-user\"></i> <a href=\"/it/lecturer/8861ac6edb9b40024e5eaa83e4a8e255503869da589725fc18069377\">FRANCESCA CUOMO</a></p><p class=\"cal-space\"><i title=\"Aula\" class=\"fa fa-location\"></i> Aula Magna (RM111, Accessibile: Si)</a></p>",
+            "description": "<p class=\"cal-inbounds\"><i title=\"Mutuazioni\" class=\"fa fa-exchange\"></i> NETWORK INFRASTRUCTURES  [2026-33510], NETWORK INFRASTRUCTURES  [2026-33514], NETWORK INFRASTRUCTURES  [2026-33515]</p><p class=\"cal-curricula\"><i title=\"Curriculum\" class=\"fa fa-book\"></i> 2\u00ba anno - Nessuna canalizzazione: Intelligenza Artificiale e Robotica ING-INF/03</p>",
+            "textColor": "#333333",
+            "curricula": [
+                "Intelligenza Artificiale e Robotica"
+            ],
+            "course_years": [
+                2
+            ],
+            "partitions": [
+                "Nessuna canalizzazione"
+            ],
+            "ssds": [
+                "ING-INF/03"
+            ]
+        },
+        {
+            "id": 12,
+            "start": "2026-10-16T08:00:00.0000000",
+            "end": "2026-10-16T11:00:00.0000000",
+            "title": "<b>REINFORCEMENT LEARNING</b><p class=\"cal-teacher\"><i title=\"Docente\" class=\"fa fa-user\"></i> <a href=\"/it/lecturer/f0296164d825576242c079732c899b0758ea3f01012b4f958427eae4\">Roberto Capobianco</a></p><p class=\"cal-space\"><i title=\"Aula\" class=\"fa fa-location\"></i> AULA 201 (RM112, Accessibile: Si)</a></p>",
+            "description": "<p class=\"cal-inbounds\"><i title=\"Mutuazioni\" class=\"fa fa-exchange\"></i> REINFORCEMENT LEARNING [2026-33512], REINFORCEMENT LEARNING [2026-33515]</p><p class=\"cal-curricula\"><i title=\"Curriculum\" class=\"fa fa-book\"></i> 2\u00ba anno - Nessuna canalizzazione: Intelligenza Artificiale e Robotica ING-INF/05</p>",
+            "textColor": "#333333",
+            "curricula": [
+                "Intelligenza Artificiale e Robotica"
+            ],
+            "course_years": [
+                2
+            ],
+            "partitions": [
+                "Nessuna canalizzazione"
+            ],
+            "ssds": [
+                "ING-INF/05"
+            ]
+        },
+        {
+            "id": 13,
+            "start": "2026-10-16T12:00:00.0000000",
+            "end": "2026-10-16T14:00:00.0000000",
+            "title": "<b>NEURAL NETWORKS</b><p class=\"cal-teacher\"><i title=\"Docente\" class=\"fa fa-user\"></i> <a href=\"/it/lecturer/325abd4c3de9f2c089c04f253166ce5d85045e9f00bb1140d4f3dfb8\">DANILO COMMINIELLO</a></p><p class=\"cal-space\"><i title=\"Aula\" class=\"fa fa-location\"></i> Aula A5 (RM102, Accessibile: Si)</a></p>",
+            "description": "<p class=\"cal-inbounds\"><i title=\"Mutuazioni\" class=\"fa fa-exchange\"></i> NEURAL NETWORKS [2026-33492], NEURAL NETWORKS [2026-33515]</p><p class=\"cal-curricula\"><i title=\"Curriculum\" class=\"fa fa-book\"></i> 2\u00ba anno - Nessuna canalizzazione: Intelligenza Artificiale e Robotica ING-IND/31</p>",
+            "textColor": "#333333",
+            "curricula": [
+                "Intelligenza Artificiale e Robotica"
+            ],
+            "course_years": [
+                2
+            ],
+            "partitions": [
+                "Nessuna canalizzazione"
+            ],
+            "ssds": [
+                "ING-IND/31"
+            ]
+        },
+        {
+            "id": 14,
+            "start": "2026-10-16T14:00:00.0000000",
+            "end": "2026-10-16T16:00:00.0000000",
+            "title": "<b>NEUROENGINEERING</b><p class=\"cal-teacher\"><i title=\"Docente\" class=\"fa fa-user\"></i> <a href=\"/it/lecturer/e11e6440383c593ba7cb4f407bb960894f439b3d97333c54c1955dd1\">FEBO CINCOTTI</a></p><p class=\"cal-space\"><i title=\"Aula\" class=\"fa fa-location\"></i> Aula B2 (RM102, Accessibile: Si)</a></p>",
+            "description": "<p class=\"cal-inbounds\"><i title=\"Mutuazioni\" class=\"fa fa-exchange\"></i> NEUROENGINEERING [2026-33514]</p><p class=\"cal-curricula\"><i title=\"Curriculum\" class=\"fa fa-book\"></i> 1\u00ba anno - Nessuna canalizzazione: Intelligenza Artificiale e Robotica IBIO-01/A</p>",
+            "textColor": "#333333",
+            "curricula": [
+                "Intelligenza Artificiale e Robotica"
+            ],
+            "course_years": [
+                1
+            ],
+            "partitions": [
+                "Nessuna canalizzazione"
+            ],
+            "ssds": [
+                "IBIO-01/A"
+            ]
+        }
+    ],
+    "filters": {
+        "curricula": [
+            "Intelligenza Artificiale e Robotica"
+        ],
+        "course_years": [
+            1,
+            2
+        ],
+        "partitions": [
+            "Nessuna canalizzazione"
+        ],
+        "ssds": [
+            "IBIO-01/A",
+            "IINF-05/A",
+            "ING-IND/31",
+            "ING-INF/03",
+            "ING-INF/04",
+            "ING-INF/05"
+        ]
+    }
+}
